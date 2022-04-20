@@ -1,0 +1,37 @@
+#cabeca{
+	margin-top: 50px;
+font-size: 24px;
+flex-wrap: wrap;
+background-image:linear-gradient( to bottom ,skyblue,green);
+
+}
+body{
+	background-image:linear-gradient( to bottom ,skyblue,green);
+
+}
+main{
+
+	margin: auto;
+	width: 900px;
+	position: relative;
+}
+a{
+
+}
+table#linguas{
+	border-spacing: 0px;
+	border: 1px solid #606060;
+	margin-left: auto;
+	margin-right: auto;
+}
+table#linguas td{
+border: 1px solid #606060;
+padding: 3px;
+padding-right: 100px;
+}
+h3{
+background-color: gray;
+}
+/*body{
+	background-color: rgb(20, 30, 40);
+}*/

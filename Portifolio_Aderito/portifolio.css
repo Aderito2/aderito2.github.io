@@ -1,0 +1,79 @@
+h1{
+    padding-left: 70px;
+	 font-size: 32px;
+	
+}
+li{
+	font-size: 34px;
+}
+.portifolio{
+	font-size: 42px;
+}
+#pai{
+	padding-top: 50px;
+	padding-left: 150px;
+    width: 800px;
+    height: 600px;
+	/*background-color: rgb(20, 250, 230);*/
+	background-image:linear-gradient( to bottom ,green,skyblue);
+	/*background-image: url('imagens/1647609473395.jpg');
+   background-position:left bottom;*/
+}
+.barra{
+	height: 50px;
+width: 100%;
+	background-color:black;
+}
+.divprincipal{
+	/*background-color: rgb(70, 250, 200);*/
+	background-image:linear-gradient( to bottom ,green,skyblue);
+	
+}
+body{
+	
+}
+main{
+	margin: auto;
+	width: 900px;
+	position: relative;
+}
+body{
+	width: 100%;
+	height: 100%;
+}
+body,ul,li,p {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-size: 1.2rem;
+	font-family: Arial;
+}
+a{
+	color:white;
+	font-size: 24px;
+	text-decoration: none;
+	
+}
+.mae #icon{
+	background-image: url("PW-exercicios/icon");
+}
+.mae{
+	background-color: rgb(50, 20, 30);
+    display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+    padding: 20px;
+}
+.menu{
+display: flex;
+
+}
+.menu li{
+  background-image:linear-gradient( to bottom ,skyblue,green);
+	margin-left: 10px;
+}
+.menu a{
+	display: flex;
+	padding: 10px;
+}

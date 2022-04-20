@@ -1,0 +1,52 @@
+.pai{
+   display: flex;
+}
+p{
+	margin-top: 40px;
+	margin-left: 40px;
+	font-size: 24px;
+
+}
+div #detalhes{
+	display: flex;
+	flex-wrap: wrap;	
+}
+h1{
+	/*margin-left: 400px;*/
+	margin-top: 30px;
+	margin-bottom: 0px;
+   height: 50px;
+   text-align: center;
+   background-color: skyblue;
+}
+div#fundo{
+background-image: url('imagens/IMG_20220406_201508_1000.jpg');
+background-position: left bottom;
+}
+div#f2{
+	background-image: url('imagens/IMG_20220406_195428_616.jpg');
+	background-position: left bottom;
+   padding-left: 50px;
+   padding-right: 50opx;
+}
+.filho{
+    height:400px;
+    width: 50%;
+}
+
+.filhote{
+	margin-top: 10px;
+	margin-left: 200px;
+    height:500px;
+    width: 60%;
+       }
+.texto{
+	margin-top: 10px;
+	margin-left: 200px;
+	background-image: url('imagens/IMG_20220406_201559_463.jpg');
+   height:500px;
+    width: 64%;
+}
+body{
+	background-image:linear-gradient( to bottom ,skyblue,green);
+}

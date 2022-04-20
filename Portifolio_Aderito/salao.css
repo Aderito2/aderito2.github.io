@@ -1,0 +1,31 @@
+.pai{
+    display: flex;
+    background-image:linear-gradient( to bottom ,skyblue,green);
+}
+#texto{
+	display: flex;
+	flex-wrap: wrap;
+     font-size: 24px;
+   }
+div#imagem{
+	background-image: url('imagens/IMG_20220406_222719.jpg');
+	background-position: left top;
+}
+h1{
+	background-color: skyblue;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	font-size: 42px;
+	text-align: center;
+}
+.filho{
+    height:400px;
+    width: 50%;
+}
+li{
+	 margin-left: 20px;
+
+}
+p{
+	 margin-left: 20px;
+}
